@@ -1,16 +1,47 @@
 # urbanharmony
 
-A new Flutter project.
+UrbanHarmony is a modern Flutter-based eCommerce mobile application developed in 2024, focused on delivering a seamless shopping experience for furniture and home accessories. The app features a clean UI, smooth navigation, and user-friendly design tailored for mobile users.
 
-## Getting Started
+It includes essential eCommerce functionalities such as product browsing, category filtering, wishlist management, detailed product views, cart system, and user profile handling — all optimized for performance and usability.
 
-This project is a starting point for a Flutter application.
+🔹 Short Description (GitHub top line)
+A modern Flutter eCommerce app for furniture & home decor with clean UI, smooth navigation, and essential shopping features.
+🔹 Features Section
+✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🏠 Home Screen with featured products
+- 📂 Category-based product browsing
+- ❤️ Wishlist functionality
+- 📄 Product detail view
+- 🛒 Add to cart & cart management
+- 👤 User profile screen
+- ⚡ Smooth and responsive UI
+🔹 Tech Stack
+🛠 Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
+- Material UI
+- State Management (mention: Provider / Riverpod / etc if used)
+🔹 Folder Structure (optional but strong impact)
+lib/
+ ├── models/
+ ├── screens/
+ ├── widgets/
+ ├── services/
+ ├── utils/
+ └── main.dart
+🔹 Installation Guide
+🚀 Getting Started
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository
+git clone https://github.com/your-username/urbanharmony.git
+
+2. Navigate to project
+cd urbanharmony
+
+3. Install dependencies
+flutter pub get
+
+4. Run the app
+flutter run
